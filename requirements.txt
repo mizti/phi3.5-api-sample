@@ -1,0 +1,6 @@
+flask
+numpy
+onnxruntime-genai
+huggingface_hub[cli]
+pyreadline3
+time
